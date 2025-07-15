@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 texto original
+=======
+texto diferente
+>>>>>>> melhorias
